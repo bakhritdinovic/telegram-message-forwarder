@@ -2,6 +2,6 @@
 
 # Author: Racter Liu (Racterub / root@racterub.me)
 
-TOKEN = "" #TO BE EDITED
+TOKEN = "121" #TO BE EDITED
 USERNAME = "" #TO BE EDITED
 BOT_CHAT_ID = 0 #TO BE EDITED
